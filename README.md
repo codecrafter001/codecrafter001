@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- ================= ANIMATED HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there%2C%20I'm%20Rashi!&fontSize=42&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<!-- ================= HERO ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:120022,100:1a0033&height=100&section=header&text=Hi%2C%20I'm%20Rashi%20%F0%9F%91%8B&fontSize=32&fontColor=E0AAFF&fontAlignY=52&animation=fadeIn" width="100%"/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Final-Year+B.Tech+%40+PRMIT%26R;AI%2FML+Intern+%40+AiKart;Building+Agentic+AI+%26+Automation+Systems;Open+Source+Contributor+%7C+GSSoC+%7C+Wikimedia" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=C77DFF&center=true&vCenter=true&width=750&repeat=false&lines=AI%2FML+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Agentic+AI+Builder;Building+intelligent+systems%2C+AI+agents+%26+next-gen+products." alt="Role and tagline"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=10002B"/>
-<img src="https://img.shields.io/badge/Location-India-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002B"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Location-India-7B2CBF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d0d0d"/>
 
 </div>
 
