@@ -26,26 +26,21 @@ status:
 
 **Languages & Frameworks**
 
-<img src="https://img.shields.io/badge/Python-0d0918?style=flat-square&logo=python&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/C++-0d0918?style=flat-square&logo=cplusplus&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0918?style=flat-square&logo=javascript&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/React-0d0918?style=flat-square&logo=react&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Node.js-0d0918?style=flat-square&logo=nodedotjs&logoColor=C77DFF"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-0d0918?style=flat-square&logo=python&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/C++-0d0918?style=flat-square&logo=cplusplus&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/JavaScript-0d0918?style=flat-square&logo=javascript&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/React-0d0918?style=flat-square&logo=react&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Node.js-0d0918?style=flat-square&logo=nodedotjs&logoColor=C77DFF"/>
+</p>
 
 **AI, Machine Learning & Agentic Systems**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0d0918?style=flat-square&logo=scikitlearn&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0d0918?style=flat-square&logo=tensorflow&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0d0918?style=flat-square&logo=openai&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/n8n%20Automation-0d0918?style=flat-square&logo=n8n&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Automation-0d0918?style=flat-square&logo=zapier&logoColor=C77DFF"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-0d0918?style=flat-square&logo=scikitlearn&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Deep%20Learning-0d0918?style=flat-square&logo=tensorflow&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Agentic%20AI-0d0918?style=flat-square&logo=openai&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/n8n%20Automation-0d0918?style=flat-square&logo=n8n&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Automation-0d0918?style=flat-square&logo=zapier&logoColor=C77DFF"/>
+</p>
 
 **Cloud, DevOps & Tools**
 
-<img src="https://img.shields.io/badge/AWS-0d0918?style=flat-square&logo=amazonaws&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Docker-0d0918?style=flat-square&logo=docker&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/Git-0d0918?style=flat-square&logo=git&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/GitHub-0d0918?style=flat-square&logo=github&logoColor=C77DFF"/>
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-0d0918?style=flat-square&logo=amazonaws&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Docker-0d0918?style=flat-square&logo=docker&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Git-0d0918?style=flat-square&logo=git&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/GitHub-0d0918?style=flat-square&logo=github&logoColor=C77DFF"/>
+</p>
 
 ---
 
