@@ -14,7 +14,7 @@ Building intelligent, production-ready systems — from autonomous AI agents and
 role: "AI/ML Engineer & Final-Year B.Tech Student"
 current:
   - Final-Year B.Tech, AI & Data Science @ PRMIT&R, Amravati
-  - AI/ML Intern @ AiKart — building SL5, an AI lead qualification agent
+  - AI/ML Intern — building SL5, an AI lead qualification agent
   - Research interests: NLP, Multimodal Knowledge Discovery, Deep Learning, Agentic AI
 status:
   - Evaluating full-time roles alongside graduate study options abroad
