@@ -10,17 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=10002B"/>
-<img src="https://img.shields.io/badge/Rank-%231%20in%20Department-9D4EDD?style=for-the-badge&logo=starship&logoColor=white&labelColor=10002B"/>
-<img src="https://img.shields.io/badge/Location-Amravati%2C%20India-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002B"/>
-
-<br/>
-
-<a href="https://github.com/codecrafter001">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20GitHub-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B"/>
-</a>
-<a href="https://www.linkedin.com/in/rashika-gangraj">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8338EC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B"/>
-</a>
+<img src="https://img.shields.io/badge/Location-India-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002B"/>
 
 </div>
 
