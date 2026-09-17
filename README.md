@@ -47,7 +47,7 @@ status:
 ## Featured Projects
 
 <details open>
-<summary><b>SL5 — AI Lead Qualification Agent (@ AiKart)</b></summary>
+<summary><b>SL5 — AI Lead Qualification Agent</b></summary>
 <br/>
 
 > R&D on a rules-first AI agent that autonomously qualifies inbound leads for sales teams, pairing LLM-driven context extraction with deterministic scoring logic.
@@ -55,7 +55,7 @@ status:
 **Highlights:**
 - Competitive landscape & tooling research
 - Agent scoping & qualification logic design
-- Built during AiKart internship
+- Rules-first scoring logic built for CRM-agnostic deployment
 
 `Python` `Agentic AI` `LLMs`
 
@@ -71,6 +71,7 @@ status:
 - Computer vision + gesture recognition pipeline
 - Real-time speech synthesis integration
 - Selected as an SIH 2024 project
+- Designed with accessibility-first UX principles
 
 `Python` `OpenCV` `Deep Learning` `MediaPipe`
 
@@ -86,6 +87,7 @@ status:
 - Integrated Murf AI voice generation APIs
 - Context-aware conversational flow design
 - Low-latency response pipeline
+- Tuned for natural, human-like conversational pacing
 
 `Python` `Murf AI API` `NLP`
 
@@ -101,6 +103,7 @@ status:
 - Multi-agent orchestration architecture
 - Automated triage & workflow routing
 - Designed with data-sensitivity in mind
+- Modular architecture built for extensibility across care workflows
 
 `Python` `Agentic AI` `Healthcare Systems`
 
@@ -116,6 +119,7 @@ status:
 - Automated multimodal knowledge discovery
 - LLM-driven research synthesis pipeline
 - Rooted in B.Tech seminar work
+- Architected to scale across multiple research domains
 
 `Python` `LLMs` `Knowledge Graphs`
 
